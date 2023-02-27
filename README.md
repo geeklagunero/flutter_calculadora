@@ -1,15 +1,15 @@
-# calculadora
+# Calculadora
 
-A new Flutter project.
+Proyecto de calculadora simple con flutter para operacioens basicas
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Esta fue mi primera aplicacion en flutter
 
-A few resources to get you started if this is your first Flutter project:
+Pueden Ver mis proyectos en mis redes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Web: applaguna.com](https://applaguna.com)
+- [twitter: geeklagunero](https://twitter.com/geeklagunero)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
